@@ -1,0 +1,16 @@
+D:\Project1\ChessBoard\ChessBoardView\bin\Debug\ChessBoardView.exe.config
+D:\Project1\ChessBoard\ChessBoardView\bin\Debug\ChessBoardView.exe
+D:\Project1\ChessBoard\ChessBoardView\bin\Debug\ChessBoardView.pdb
+D:\Project1\ChessBoard\ChessBoardView\obj\Debug\ChessBoardView.csproj.AssemblyReference.cache
+D:\Project1\ChessBoard\ChessBoardView\obj\Debug\ChessBoardView.csproj.SuggestedBindingRedirects.cache
+D:\Project1\ChessBoard\ChessBoardView\obj\Debug\ChessBoardView.Form1.resources
+D:\Project1\ChessBoard\ChessBoardView\obj\Debug\ChessBoardView.Properties.Resources.resources
+D:\Project1\ChessBoard\ChessBoardView\obj\Debug\ChessBoardView.csproj.GenerateResource.cache
+D:\Project1\ChessBoard\ChessBoardView\obj\Debug\ChessBoardView.csproj.CoreCompileInputs.cache
+D:\Project1\ChessBoard\ChessBoardView\obj\Debug\ChessBoardView.exe
+D:\Project1\ChessBoard\ChessBoardView\obj\Debug\ChessBoardView.pdb
+D:\Project1\ChessBoard\ChessBoardView\bin\Debug\Newtonsoft.Json.dll
+D:\Project1\ChessBoard\ChessBoardView\bin\Debug\Newtonsoft.Json.xml
+D:\Project1\ChessBoard\ChessBoardView\obj\Debug\ChessBoardView.csproj.CopyComplete
+D:\Project1\ChessBoard\ChessBoardView\bin\Debug\ChessBoardModel.dll
+D:\Project1\ChessBoard\ChessBoardView\bin\Debug\ChessBoardModel.pdb
