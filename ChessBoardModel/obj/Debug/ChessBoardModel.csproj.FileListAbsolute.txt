@@ -1,0 +1,6 @@
+D:\Project1\ChessBoard\ChessBoardModel\bin\Debug\ChessBoardModel.dll
+D:\Project1\ChessBoard\ChessBoardModel\bin\Debug\ChessBoardModel.pdb
+D:\Project1\ChessBoard\ChessBoardModel\obj\Debug\ChessBoardModel.csproj.AssemblyReference.cache
+D:\Project1\ChessBoard\ChessBoardModel\obj\Debug\ChessBoardModel.csproj.CoreCompileInputs.cache
+D:\Project1\ChessBoard\ChessBoardModel\obj\Debug\ChessBoardModel.dll
+D:\Project1\ChessBoard\ChessBoardModel\obj\Debug\ChessBoardModel.pdb
