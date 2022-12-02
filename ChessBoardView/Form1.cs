@@ -114,7 +114,7 @@ namespace ChessBoardView
                         else
                         {
                             myBoard.TheGrid[location.X, location.Y].CellName = comboBox1.Text;
-                            myBoard.TheGrid[location.X, location.Y].imageKey = "Black" + comboBox1.Text;
+                            myBoard.TheGrid[location.X, location.Y].imageKey = "White" + comboBox1.Text;
                         }
                     }else if(PlayerTurn == 2 && myBoard.TheGrid[location.X, location.Y].CellName == "Pawn" && location.Y == 7)
                     {
@@ -130,7 +130,7 @@ namespace ChessBoardView
                         else
                         {
                             myBoard.TheGrid[location.X, location.Y].CellName = comboBox1.Text;
-                            myBoard.TheGrid[location.X, location.Y].imageKey = "White" + comboBox1.Text;
+                            myBoard.TheGrid[location.X, location.Y].imageKey = "Black" + comboBox1.Text;
                         }
                     }
                     player.URL = sound;
