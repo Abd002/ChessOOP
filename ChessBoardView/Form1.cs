@@ -93,6 +93,8 @@ namespace ChessBoardView
 
                     myBoard.TheGrid[location.X, location.Y] = temp1;
                     myBoard.TheGrid[x, y] = temp2;
+                    myBoard.TheGrid[x, y].RowNumber = x;
+                    myBoard.TheGrid[x, y].ColumnNumber = y;
 
                 }
                 else

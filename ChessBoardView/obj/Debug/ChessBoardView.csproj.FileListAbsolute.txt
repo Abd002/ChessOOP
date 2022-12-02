@@ -19,3 +19,24 @@ D:\Project1\ChessBoard\ChessBoardView\bin\Debug\AxInterop.WMPLib.dll
 D:\Project1\ChessBoard\ChessBoardView\obj\Debug\Interop.WMPLib.dll
 D:\Project1\ChessBoard\ChessBoardView\obj\Debug\AxInterop.WMPLib.dll
 D:\Project1\ChessBoard\ChessBoardView\obj\Debug\ChessBoardView.csproj.ResolveComReference.cache
+C:\Users\AbdElRahman Khalifa\Source\Repos\ChessOOP\ChessBoardView\bin\Debug\ChessBoardView.exe.config
+C:\Users\AbdElRahman Khalifa\Source\Repos\ChessOOP\ChessBoardView\bin\Debug\ChessBoardView.exe
+C:\Users\AbdElRahman Khalifa\Source\Repos\ChessOOP\ChessBoardView\bin\Debug\ChessBoardView.pdb
+C:\Users\AbdElRahman Khalifa\Source\Repos\ChessOOP\ChessBoardView\bin\Debug\ChessBoardModel.dll
+C:\Users\AbdElRahman Khalifa\Source\Repos\ChessOOP\ChessBoardView\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AbdElRahman Khalifa\Source\Repos\ChessOOP\ChessBoardView\bin\Debug\ChessBoardModel.pdb
+C:\Users\AbdElRahman Khalifa\Source\Repos\ChessOOP\ChessBoardView\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AbdElRahman Khalifa\Source\Repos\ChessOOP\ChessBoardView\bin\Debug\Interop.WMPLib.dll
+C:\Users\AbdElRahman Khalifa\Source\Repos\ChessOOP\ChessBoardView\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\AbdElRahman Khalifa\Source\Repos\ChessOOP\ChessBoardView\obj\Debug\ChessBoardView.csproj.AssemblyReference.cache
+C:\Users\AbdElRahman Khalifa\Source\Repos\ChessOOP\ChessBoardView\obj\Debug\ChessBoardView.csproj.SuggestedBindingRedirects.cache
+C:\Users\AbdElRahman Khalifa\Source\Repos\ChessOOP\ChessBoardView\obj\Debug\Interop.WMPLib.dll
+C:\Users\AbdElRahman Khalifa\Source\Repos\ChessOOP\ChessBoardView\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\AbdElRahman Khalifa\Source\Repos\ChessOOP\ChessBoardView\obj\Debug\ChessBoardView.csproj.ResolveComReference.cache
+C:\Users\AbdElRahman Khalifa\Source\Repos\ChessOOP\ChessBoardView\obj\Debug\ChessBoardView.Form1.resources
+C:\Users\AbdElRahman Khalifa\Source\Repos\ChessOOP\ChessBoardView\obj\Debug\ChessBoardView.Properties.Resources.resources
+C:\Users\AbdElRahman Khalifa\Source\Repos\ChessOOP\ChessBoardView\obj\Debug\ChessBoardView.csproj.GenerateResource.cache
+C:\Users\AbdElRahman Khalifa\Source\Repos\ChessOOP\ChessBoardView\obj\Debug\ChessBoardView.csproj.CoreCompileInputs.cache
+C:\Users\AbdElRahman Khalifa\Source\Repos\ChessOOP\ChessBoardView\obj\Debug\ChessBoardView.csproj.CopyComplete
+C:\Users\AbdElRahman Khalifa\Source\Repos\ChessOOP\ChessBoardView\obj\Debug\ChessBoardView.exe
+C:\Users\AbdElRahman Khalifa\Source\Repos\ChessOOP\ChessBoardView\obj\Debug\ChessBoardView.pdb
