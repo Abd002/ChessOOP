@@ -10,3 +10,9 @@ C:\Users\AbdElRahman Khalifa\Source\Repos\ChessOOP\ChessBoardModel\obj\Debug\Che
 C:\Users\AbdElRahman Khalifa\Source\Repos\ChessOOP\ChessBoardModel\obj\Debug\ChessBoardModel.csproj.CoreCompileInputs.cache
 C:\Users\AbdElRahman Khalifa\Source\Repos\ChessOOP\ChessBoardModel\obj\Debug\ChessBoardModel.dll
 C:\Users\AbdElRahman Khalifa\Source\Repos\ChessOOP\ChessBoardModel\obj\Debug\ChessBoardModel.pdb
+C:\Users\AbdElRahman Khalifa\source\repos\ChessOOP\New folder\ChessBoardModel\bin\Debug\ChessBoardModel.dll
+C:\Users\AbdElRahman Khalifa\source\repos\ChessOOP\New folder\ChessBoardModel\bin\Debug\ChessBoardModel.pdb
+C:\Users\AbdElRahman Khalifa\source\repos\ChessOOP\New folder\ChessBoardModel\obj\Debug\ChessBoardModel.csproj.AssemblyReference.cache
+C:\Users\AbdElRahman Khalifa\source\repos\ChessOOP\New folder\ChessBoardModel\obj\Debug\ChessBoardModel.csproj.CoreCompileInputs.cache
+C:\Users\AbdElRahman Khalifa\source\repos\ChessOOP\New folder\ChessBoardModel\obj\Debug\ChessBoardModel.dll
+C:\Users\AbdElRahman Khalifa\source\repos\ChessOOP\New folder\ChessBoardModel\obj\Debug\ChessBoardModel.pdb

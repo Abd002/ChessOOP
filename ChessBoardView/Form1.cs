@@ -150,6 +150,7 @@ namespace ChessBoardView
                     if (enemy.X != -1)
                     {
                         myBoard.MakeNextLegalMoves(myBoard.TheGrid[location.X, location.Y]);
+                        /*
                         if (myBoard.TheGrid[enemy.X, enemy.Y].LegalNextMove == false)
                         {
                             int x = 0, y = 0;
@@ -169,6 +170,7 @@ namespace ChessBoardView
                                 myBoard.Clear(myBoard);
                             }
                         }
+                        */
                         //else king legal move;
                     }
                     else
