@@ -119,7 +119,18 @@ namespace ChessBoardView
                     else if (currentCell.IsBlank != TheGrid[i, j].IsBlank && TheGrid[i, j].CellName != "King")
                     {
                         MakeNextLegalMoves(TheGrid[i, j]);
+                    } else if (currentCell.IsBlank != TheGrid[i, j].IsBlank && TheGrid[i, j].CellName == "King")
+                    {
+                        for (int d = 0; d < 8; d++)
+                        {
+                            int x = i + DxKing[d],y=j+ DyKing[d];
+                            if (x >= 0 && x < 8 && y >= 0 && y < 8)
+                            {
+                                TheGrid[x,y].LegalNextMove = true;
+                            }
+                        }
                     }
+                    
                 }
             }
 
